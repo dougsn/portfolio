@@ -44,13 +44,14 @@ body {
 }
 
 .navigation .threeline-icon {
-display: none;
+    display: none;
 }
 
 .navigation li.threeline-icon:hover {
     color: #f27609;
     cursor: pointer;
 }
+
 
 
 .capa {
@@ -343,7 +344,7 @@ display: none;
 }
 
 .caminho li {
-    font-size: 13px;
+    font-size: 20px;
 }
 
 
